@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Briefing & Task-Instruction Assistant",
+    "desc": "An internal ChatGPT-powered assistant that generates task instructions, verification protocols, and freelancer briefing documents on demand — replacing manual drafting for every new case.",
+    "image": "chatgpt-assistant",
+    "category": "automation",
+    "links": {
+      "view": "#work",
+      "code": "#work"
+    }
+  },
+  {
+    "name": "Freelancer Sourcing Database",
+    "desc": "A DeepSeek-based assistant that converted 800+ raw, unstructured freelancer records into a clean, searchable database organized by region and coverage gap.",
+    "image": "deepseek-sourcing",
+    "category": "database",
+    "links": {
+      "view": "#work",
+      "code": "#work"
+    }
+  }
+]
