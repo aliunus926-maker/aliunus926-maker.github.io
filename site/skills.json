@@ -1,0 +1,28 @@
+[
+  { "name": "Case Management & Verification", "icon": "fas fa-magnifying-glass", "group": "Operations" },
+  { "name": "Workflow Automation", "icon": "fas fa-diagram-project", "group": "Operations" },
+  { "name": "SOP / Technical Writing", "icon": "fas fa-file-lines", "group": "Operations" },
+  { "name": "Process Improvement", "icon": "fas fa-arrows-spin", "group": "Operations" },
+  { "name": "Compliance & Data Confidentiality", "icon": "fas fa-shield-halved", "group": "Operations" },
+
+  { "name": "Community Development", "icon": "fas fa-people-group", "group": "Program & NGO" },
+  { "name": "Needs Assessment", "icon": "fas fa-clipboard-question", "group": "Program & NGO" },
+  { "name": "Monitoring & Evaluation", "icon": "fas fa-chart-line", "group": "Program & NGO" },
+  { "name": "Stakeholder Engagement", "icon": "fas fa-handshake", "group": "Program & NGO" },
+  { "name": "Climate Resilience & DRR", "icon": "fas fa-mountain-sun", "group": "Program & NGO" },
+
+  { "name": "Cross-Functional Coordination", "icon": "fas fa-sitemap", "group": "Coordination" },
+  { "name": "Remote Team & Freelancer Mgmt", "icon": "fas fa-users-gear", "group": "Coordination" },
+  { "name": "Project Coordination", "icon": "fas fa-list-check", "group": "Coordination" },
+  { "name": "Vendor Sourcing", "icon": "fas fa-store", "group": "Coordination" },
+
+  { "name": "Qualitative & Quantitative Research", "icon": "fas fa-flask", "group": "Research & Data" },
+  { "name": "Policy Analysis", "icon": "fas fa-scale-balanced", "group": "Research & Data" },
+  { "name": "Google Sheets (Dashboards)", "icon": "fas fa-table-cells", "group": "Research & Data" },
+  { "name": "Data Reporting", "icon": "fas fa-chart-pie", "group": "Research & Data" },
+
+  { "name": "ChatGPT (Prompt Engineering)", "icon": "fas fa-robot", "group": "AI & Tools" },
+  { "name": "DeepSeek", "icon": "fas fa-brain", "group": "AI & Tools" },
+  { "name": "LinkedIn Sourcing", "icon": "fab fa-linkedin", "group": "AI & Tools" },
+  { "name": "Canva", "icon": "fas fa-palette", "group": "AI & Tools" }
+]
